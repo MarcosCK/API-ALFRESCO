@@ -1,0 +1,8 @@
+<webscript>
+    <shortname>Hello World</shortname>
+    <description>Hello world marcos</description>
+    <url>/api/marcos</url>
+    <authentication>user</authentication>
+    <format default="html"></format>
+    <lifecycle>sample</lifecycle>
+</webscript>
